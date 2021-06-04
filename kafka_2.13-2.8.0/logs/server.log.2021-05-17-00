@@ -1,0 +1,2 @@
+[2021-05-17 03:58:33,957] WARN Client session timed out, have not heard from server in 17551ms for sessionid 0x100021036e50003 (org.apache.zookeeper.ClientCnxn)
+[2021-05-17 03:58:34,014] INFO Client session timed out, have not heard from server in 17551ms for sessionid 0x100021036e50003, closing socket connection and attempting reconnect (org.apache.zookeeper.ClientCnxn)

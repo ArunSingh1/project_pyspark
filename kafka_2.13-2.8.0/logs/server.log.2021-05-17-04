@@ -1,0 +1,2 @@
+[2021-05-17 08:13:08,718] INFO Expiring session 0x100021036e50003, timeout of 18000ms exceeded (org.apache.zookeeper.server.ZooKeeperServer)
+[2021-05-17 10:38:30,890] INFO Invalid session 0x100021036e50003 for client /127.0.0.1:56798, probably expired (org.apache.zookeeper.server.ZooKeeperServer)

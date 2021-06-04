@@ -1,0 +1,5 @@
+[2021-05-18 06:22:57,538] INFO Expiring session 0x100021036e50006, timeout of 18000ms exceeded (org.apache.zookeeper.server.ZooKeeperServer)
+[2021-05-18 06:23:02,723] WARN Unable to read additional data from client sessionid 0x100021036e50006, likely client has closed socket (org.apache.zookeeper.server.NIOServerCnxn)
+[2021-05-18 06:23:06,209] INFO Expiring session 0x100021036e50006, timeout of 18000ms exceeded (org.apache.zookeeper.server.ZooKeeperServer)
+[2021-05-18 06:23:17,966] INFO Invalid session 0x100021036e50006 for client /127.0.0.1:51714, probably expired (org.apache.zookeeper.server.ZooKeeperServer)
+[2021-05-18 06:25:01,208] INFO Expiring session 0x100021036e50007, timeout of 18000ms exceeded (org.apache.zookeeper.server.ZooKeeperServer)
