@@ -1,10 +1,11 @@
+# from sqlite3.dbapi2 import Cursor
 import tweepy 
 from tweepy import OAuthHandler # to authenticate Twitter API
 from tweepy import Stream 
 from tweepy.streaming import StreamListener
 import socket 
 import json 
-
+# import sqlite3 
 
 
 # # Set up your credentials
@@ -19,6 +20,10 @@ consumer_secret = '9K8NhQZU57DlttBk7OpfALtmFzI8LDSCZJKShYwvVUzXaNuxnR'
 access_token    = '1394047431281623042-QN1mFN7N88IKIt5OOCpuaGTfLBAIUP'
 access_secret   = 'NL0pZvd3Gy7BVZbIAL11qcmCxTtJ2XX2Yafnpro73CGud'
 
+
+# ## db connnection
+# conn = sqlite3.connect('twitterdb')
+# db =  conn.cursor()
 
 
 class TweetsListener(StreamListener):
