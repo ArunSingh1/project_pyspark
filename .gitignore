@@ -1,3 +1,5 @@
 pyspark_venv
 kafka_-2.13-2.8.0
 twython
+env
+.env
